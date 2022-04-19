@@ -8,6 +8,7 @@
  //var path = require('path');
  var app = express();
  
+ var versiom = "1";
  // log requests
  //app.use(logger('dev'));
  
